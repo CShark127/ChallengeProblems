@@ -1,7 +1,5 @@
 ## Challenge Problem 1
 
----
-
 **Difficulty**: Hard
 **Asked By**: Uber
 
